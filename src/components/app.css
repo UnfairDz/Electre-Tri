@@ -1,0 +1,70 @@
+body {
+  background-color: #f4f4f4;
+}
+
+.body {
+  margin-left: 100px;
+}
+
+h1 {
+  padding-top: 10px;
+  padding-left: 100px;
+  background-color: #f0a500;
+  height: 70px;
+  width: 100%;
+  overflow-x: auto;
+}
+
+label {
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+input {
+  width: 100px;
+}
+
+.data-input {
+  outline: none;
+  border: hidden;
+  background-color: #f4f4f4;
+  width: auto;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 20px;
+}
+
+td,
+th {
+  border: 1px solid #cf7500;
+  text-align: left;
+  padding: 8px;
+}
+
+button {
+  background-color: #cf7500;
+  color: #f4f4f4;
+  border: 0px solid;
+  padding: 10px;
+  border: none;
+  font-size: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.data-input::-webkit-inner-spin-button,
+.data-input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.tablemix {
+  display: flex;
+}
+
+.credibilite {
+  display: flex;
+}
