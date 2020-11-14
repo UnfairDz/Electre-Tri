@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Electre-Tri/static/css/main.e1f85589.chunk.css",
+    "main.js": "/Electre-Tri/static/js/main.8ad77571.chunk.js",
+    "main.js.map": "/Electre-Tri/static/js/main.8ad77571.chunk.js.map",
+    "runtime-main.js": "/Electre-Tri/static/js/runtime-main.52a350ac.js",
+    "runtime-main.js.map": "/Electre-Tri/static/js/runtime-main.52a350ac.js.map",
+    "static/js/2.c3171495.chunk.js": "/Electre-Tri/static/js/2.c3171495.chunk.js",
+    "static/js/2.c3171495.chunk.js.map": "/Electre-Tri/static/js/2.c3171495.chunk.js.map",
+    "index.html": "/Electre-Tri/index.html",
+    "precache-manifest.134b0837a83bc11d9b4f876efc4bf8b1.js": "/Electre-Tri/precache-manifest.134b0837a83bc11d9b4f876efc4bf8b1.js",
+    "service-worker.js": "/Electre-Tri/service-worker.js",
+    "static/css/main.e1f85589.chunk.css.map": "/Electre-Tri/static/css/main.e1f85589.chunk.css.map",
+    "static/js/2.c3171495.chunk.js.LICENSE.txt": "/Electre-Tri/static/js/2.c3171495.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52a350ac.js",
+    "static/js/2.c3171495.chunk.js",
+    "static/css/main.e1f85589.chunk.css",
+    "static/js/main.8ad77571.chunk.js"
+  ]
+}
